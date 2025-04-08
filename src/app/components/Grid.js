@@ -15,7 +15,7 @@ export const Grid = () => {
                               />
                         </div>
                         <p className="description">
-                              Ce color picker permet de classer et de choisir des couleurs en fonction de leur teinte et saturation (sur un choix de 2000 couleurs). Il s&apos;agit d&apos;un projet de stage réalisé chez KauryWeb.
+                              Ce color picker permet de classer et de choisir des couleurs en fonction de leur teinte et saturation (sur un choix de 2000 couleurs). Il s&apos;agit d&apos;un projet de stage réalisé chez Kauriweb.
                         </p>
                         <div className="linkWrapper">
                               <a href="https://color-picker1997.netlify.app/" target="_blank" rel="noopener noreferrer">
