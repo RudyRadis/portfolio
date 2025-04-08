@@ -15,11 +15,11 @@ export const Grid = () => {
                               />
                         </div>
                         <p className="description">
-                              Ce color picker permet de classer et de choisir des couleurs en fonction de leur teinte et saturation (sur un choix de 2000 couleurs). Il s'agit d'un projet de stage réalisé chez KauryWeb.
+                              Ce color picker permet de classer et de choisir des couleurs en fonction de leur teinte et saturation (sur un choix de 2000 couleurs). Il s&apos;agit d&apos;un projet de stage réalisé chez KauryWeb.
                         </p>
                         <div className="linkWrapper">
                               <a href="https://color-picker1997.netlify.app/" target="_blank" rel="noopener noreferrer">
-                                    <button className="btn">🌐 URL de l'app</button>
+                                    <button className="btn">🌐 URL de l&apos;app</button>
                               </a>
                         </div>
                         <div className="linkWrapper">
@@ -40,11 +40,11 @@ export const Grid = () => {
                               />
                         </div>
                         <p className="description">
-                              Mercadona est une application web conçue pour la société de distribution Mercadona. Elle est hébergée sur Heroku. Elle permet à l'utilisateur de consulter le catalogue des produits proposés par Mercadona. Ce projet est un sujet d'examen dans le cadre de la formation STUDI Bachelor Développeur d'applications web/mobile.
+                              Mercadona est une application web conçue pour la société de distribution Mercadona. Elle est hébergée sur Heroku. Elle permet à l&apos;utilisateur de consulter le catalogue des produits proposés par Mercadona. Ce projet est un sujet d&apos;examen dans le cadre de la formation STUDI Bachelor Développeur d&apos;applications web/mobile.
                         </p>
                         <div className="linkWrapper">
                               <a href="https://secret-falls-68265-e0e831d6abcf.herokuapp.com/" target="_blank" rel="noopener noreferrer">
-                                    <button className="btn">🌐 URL de l'app</button>
+                                    <button className="btn">🌐 URL de l&apos;app</button>
                               </a>
                         </div>
                         <div className="linkWrapper">
@@ -69,11 +69,11 @@ export const Grid = () => {
                               />
                         </div>
                         <p className="description">
-                              Le site vitrine de l'application Phi-Lux. Une application éducative centrée sur les mathématiques. Il s'agit d'un projet personnel développé dans un cadre professionnel et destiné à être monétisé.
+                              Le site vitrine de l&apos;application Phi-Lux. Une application éducative centrée sur les mathématiques. Il s&apos;agit d&apos;un projet personnel développé dans un cadre professionnel et destiné à être monétisé.
                         </p>
                         <div className="linkWrapper">
                               <a href="https://phi-lux-alpha.vercel.app/" target="_blank" rel="noopener noreferrer">
-                                    <button className="btn">🌐 URL de l'app</button>
+                                    <button className="btn">🌐 URL de l&apos;app</button>
                               </a>
                         </div>
                         <div className="linkWrapper">
@@ -96,7 +96,7 @@ export const Grid = () => {
                               />
                         </div>
                         <p className="description">
-                              L'application mobile du projet Phi-Lux. Une application mobile éducative destinée à améliorer l'apprentissage des mathématiques chez les élèves. Il s'agit d'un projet personnel développé dans un cadre professionnel et destiné à être monétisé.
+                              L&apos;application mobile du projet Phi-Lux. Une application mobile éducative destinée à améliorer l&apos;apprentissage des mathématiques chez les élèves. Il s&apos;agit d&apos;un projet personnel développé dans un cadre professionnel et destiné à être monétisé.
                         </p>
                         <div className="linkWrapper">
                               <a href="https://youtube.com/shorts/sDoCQ-sddi8" target="_blank" rel="noopener noreferrer">
