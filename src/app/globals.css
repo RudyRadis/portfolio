@@ -18,7 +18,6 @@ body {
 
 }
 
-
 * {
       box-sizing: border-box;
       padding: 0;
@@ -52,9 +51,6 @@ h2, h3, h4, h5, h6, p {
       text-align: center;
       padding: 2rem;
 }
-
-.title {}
-
 
 .grid {
       display: grid;
@@ -141,4 +137,14 @@ h2, h3, h4, h5, h6, p {
 .btn__youtube:hover {
       background-color: whitesmoke;
       color: #F90103
+}
+
+.btn__figma {
+      background-color: #A55FFF;
+      color: whitesmoke;
+}
+
+.btn__figma:hover {
+      background-color: #2FBFFE;
+      color: whitesmoke;
 }
